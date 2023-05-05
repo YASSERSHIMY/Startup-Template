@@ -13,4 +13,4 @@
     <li><a href="https://necolas.github.io/normalize.css/">Normalize.css</a></li>
 </ul>
 
-<blockquote>You can visit the website <a href="https://startup-template1.netlify.app/"><b>here</b></a>.</blockquote>
+<blockquote>You can visit the website <a href="https://yassershimy.github.io/Startup-Template/"><b>here</b></a>.</blockquote>
